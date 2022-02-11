@@ -3,8 +3,9 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:400px;
     padding:20px;
+    line-height:200%;
     border-radius:25px;
-    align:center
+    align:center;
 }
